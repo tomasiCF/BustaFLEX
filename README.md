@@ -16,13 +16,13 @@ BCH wallet for a single tokenId
 
 ## SLP Token Functions
 
-- [create-token](create-token) - Create a new SLP token class. Run the
-  [create-wallet](create-wallet) example first, and fund your wallet with a few
+- [create-token](https://github.com/tomasiCF/slp-sdk/blob/master/examples/create-token/create-token.js) - Create a new SLP token class. Run the
+  [create-wallet](https://github.com/tomasiCF/slp-sdk/blob/master/examples/create-wallet/create-wallet.js) example first, and fund your wallet with a few
   cents of BCH first.
 
 - [create-nft](https://github.com/tomasiCF/slp-sdk/blob/master/examples/create-token/create-token.js) - Create a new SLP
 [non-fungible token](https://coincentral.com/nfts-non-fungible-tokens/). Run the
-[create-wallet](create-wallet) example first, and fund your wallet with a few
+[create-wallet](https://github.com/tomasiCF/slp-sdk/blob/master/examples/create-wallet/create-wallet.js) example first, and fund your wallet with a few
 cents of BCH first.
 
 - [mint-token](https://github.com/tomasiCF/slp-sdk/blob/master/examples/mint-token/mint-token.js) - Mint additional SLP tokens for an existing class
