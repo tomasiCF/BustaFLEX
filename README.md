@@ -1,6 +1,10 @@
 # BustaFLEX
 
-## Background
+
+
+## derviation path
+
+### Background
 
 Derivation paths are related to HD Wallets or HD Keys, a type of wallet where you have a single, human readable, seed phrase that unlocks a number of accounts / addresses / private keys across any supported network. These phrases typically look like “brain surround have swap horror body response double fire dumb bring hazard”
 
@@ -11,7 +15,7 @@ The technical specification for the most commonly used HD wallets are...
     BIP-44 - the derivation path stuff / algorithms.
 
 
-## about "derviation path"
+### about "derviation path"
 It's the
 
    XYZ + 😺 + ABC + & + 1
@@ -48,7 +52,7 @@ Sometimes used in Ethereum, sometimes not. Was created for Bitcoin originally wh
 
 Another variable to get different accounts.
 
-## Seperation and Hierarchy
+### Seperation and Hierarchy
 
 Some of the variables above are based on external forces, like what chain I am on. Some are chosen by the user or the wallet software, like the change variable. The account and index variables give me (or my wallet) more things to change.
 
