@@ -24,7 +24,7 @@ part of it.
 
 The actual derivation path pieces
 
-Full path: m/44'/145'/0'/0 （flex use thi no need to changes）
+Full path: m/44'/145'/0'/0 （flex use this no need to changes）
 
 What each number represents: m / purpose' / coin_type' / account' / change / address_index
 
